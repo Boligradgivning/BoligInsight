@@ -1,4 +1,3 @@
-[BoligInsight.html](https://github.com/user-attachments/files/33106583/BoligInsight.html)
 <!DOCTYPE html>
 <html lang="da">
 <head>
